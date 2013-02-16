@@ -19,3 +19,4 @@ public class TKHEntityHuman extends EntityPlayerSP
 		this.skinUrl = (new StringBuilder()).append("http://s3.amazonaws.com/MinecraftSkins/").append(par3Session.username).append(".png").toString();
 	}
 }
+//
